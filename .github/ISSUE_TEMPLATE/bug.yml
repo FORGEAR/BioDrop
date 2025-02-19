@@ -17,12 +17,6 @@ body:
       description: Local dev environment or production on biodrop.io
     validations:
       required: true
-  - type: input
-    attributes:
-      label: Version of BioDrop (for example "v1.2.3")
-      description: Can be found in the footer of the BioDrop.io website.
-    validations:
-      required: true
   - type: textarea
     id: description
     attributes:
