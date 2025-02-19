@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./*"]
+    },
+    "baseUrl": "."
+  },
+  "include": ["next-env.d.ts", "**/*.ts", 
+  "**/*.tsx", ".next/types/**/*.ts", "auth.js", "app/api/auth/[...nextauth]/route.js", "__tests__/ui/home.test.js", "app/api/cloudinary/route.ts", "components/modules/website/order/StripeForm.jsx"],
+  "exclude": ["node_modules","__tests__/*","app/api/auth/[...nextauth]"],
+}
