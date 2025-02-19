@@ -102,9 +102,3 @@ Use the ` git clone ` CLI to clone template directly  to your machine
 19. Test Cypress 
 
 20. Deploy 
-
-
-
-## Questions
-
-If you have any issues or questions [Send a comment] (https://www.youtube.com/@sylvaincodes593) on Youtube or reach out me on [Discord](https://discord.gg/aGer8EX9) or for private messages on [patreon.com/sylvaincodes](https://www.patreon.com/sylvaincodes)
