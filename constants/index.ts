@@ -21,14 +21,3 @@ export const payments = [
     subtitle: "pay with your credit card",
   },
 ];
-
-export const deliveries = [
-  {
-    id: "1",
-    image: "https://cdn-icons-png.flaticon.com/128/3796/3796120.png",
-    title: "free shipping",
-    times: "2 days",
-    price: 0,
-    subtitle: "get it in 2 days",
-  },
-];
