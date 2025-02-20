@@ -1,4 +1,5 @@
 export const payments = [
+  // update the id in this case
   {
     id: "1",
     image: "https://cdn-icons-png.flaticon.com/128/4021/4021708.png",
