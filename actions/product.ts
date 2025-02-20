@@ -12,6 +12,8 @@ export async function getProductBySlug(slug: string) {
       }
     );
 
+    // product page now update 
+
     return response.data.data;
   } catch (error) {
     return error;
