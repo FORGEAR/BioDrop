@@ -13,13 +13,13 @@ This is a full stack Nextjs app with a beautiful and amazing design ui.
 
 ## Core features 
 
-- Learn how to start a next js  project from scratch
-- Learn how to set SEO to Next Js Project
-- Learn how to set up Tailwind Css and Next Js Project
-- Learn how to create React components with Tailwind CSS
-- Learn how to create React components with framer motion
-- Learn how to Test your app with Jest, Cypress
-- Learn how to build consume API 
+- Start a next js  project from scratch
+- Set SEO to Next Js Project
+- Set up Tailwind Css and Next Js Project
+- Create React components with Tailwind CSS
+- Create React components with framer motion
+- Test your app with Jest, Cypress
+- Build consume API 
 
 ## Quick start
 
@@ -47,10 +47,9 @@ Use the ` git clone ` CLI to clone template directly  to your machine
 
 ## Project Dev Steps
 
-1. Environment Setup
+Environment Setup - Create a env file on the root of project
    
-   Create a env file on the root of project
-   PUT THIS INSIDE
+PUT THIS INSIDE
 
 ```bash
 
@@ -67,38 +66,4 @@ Use the ` git clone ` CLI to clone template directly  to your machine
     PAYPAL_CLIENT_SECRET=
 ```
 
-2.  Project Folder Structure
 
-3.  Setup Eslint
-   
-4.  Setup Jest
-
-5. Setup Cypress
-
-7. Create Pipeline CI CD
-    
-8. Setup ShadCn and Some Libraries
-
-9. Setup Frontend UI Kit ( Colors - Fonts - Container )
-
-10. Create  Home UI
-
-11. Create  Product page UI
-
-12. Create  Product Detail  UI
-
-13. Create  Cart UI
-
-14. Create  Checkout UI
-
-15. Create  Payment UI
-
-16. Create  Dashoard UI
-
-17. Fixing bug 
-
-18. Test Jest 
-
-19. Test Cypress 
-
-20. Deploy 
