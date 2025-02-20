@@ -14,3 +14,15 @@ export default  async function page() {
 
   return <Login />;
 }
+export const metadata: Metadata = {
+  title: "Full stack Ecommerce",
+  description: "Become a full stack Nextjs with this project",
+  icons: {
+    icon: "/assets/images/logo.svg",
+  },
+
+  openGraph: mergeOpenGraph({
+    title: "Login - Next Js App",
+    url: "/",
+  }),
+};
