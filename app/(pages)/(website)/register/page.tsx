@@ -11,7 +11,7 @@ export default async function page() {
     redirect("/");
   }
 
-  return Register;
+  return <Register />;
 }
 export const metadata: Metadata = {
   title: "Full stack Ecommerce",
