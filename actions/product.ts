@@ -12,7 +12,7 @@ export async function getProductBySlug(slug: string) {
       }
     );
 
-    // product page now update 
+    // product page now update s
 
     return response.data.data;
   } catch (error) {
