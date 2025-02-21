@@ -14,3 +14,6 @@ describe("Contact page", () => {
       cy.get('[data-cy="submitForm"]').click();
     });
   });
+  
+
+  
