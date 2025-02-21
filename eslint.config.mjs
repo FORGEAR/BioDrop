@@ -20,7 +20,7 @@ export default [
   ...tseslint.configs.recommended,
   pluginReact.configs.flat.recommended,
 
-  //ignore some folders
+  //ignore some folders and files from linting
   {
     ignores: [
       ".next/*",
@@ -32,3 +32,4 @@ export default [
     ],
   },
 ];
+
