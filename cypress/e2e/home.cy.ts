@@ -16,3 +16,6 @@ describe("Go to Home", () => {
     cy.get('[data-cy="email"]').type("testemail@gmail.com");
     cy.get('[data-cy="btn"]').click();
   });
+  
+
+  
